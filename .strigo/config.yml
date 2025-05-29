@@ -15,10 +15,10 @@ classes:
           custom_username: "ec2-user"
           custom_password: "password123"
     exercises:
-      - file: "../hello-world/hello.md"
+      - file: "../Connectivity-Workshops/Exercise-1.md"
         title: "Connectivity - Exercise 1"
         syntax: "md"
-      - file: "../hello-world/world.md"
+      - file: "../Connectivity-Workshops/Exercise-2.md"
         title: "Connectivity - Exercise 2"
         syntax: "md"
 
