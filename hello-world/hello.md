@@ -1,5 +1,7 @@
 # Connectivity Workshop
 
+![image](https://github.com/user-attachments/assets/bfda3776-6393-4a79-bf0e-c6893c80700f)
+
 We appreciate that a lot of our customers use Proxy Chaining, however, for the purpose of this training you will be using the PAC file.
 
 You will have total control of the windows environment within the CloudShare virtual machine. The environment is Windows Server 2022 Standard.
@@ -17,7 +19,7 @@ Exercise 1: Test Pre-Pend
  a.	Type https://safe.menlosecurity.com.
  b.	Enter bbc.com, or a domain of your choice, in the dialogue as shown below:
  
-![Diagram](pre-pend1.png)
+![Diagram](pre-pend-1.png)
 
 3.	Log on as admin@menlo-student<n>.com where <n> is your student number provided by the instructor.  Use the password provided to you by the instructor. 
 4.	Click on a link on the page.
@@ -48,6 +50,7 @@ e.	Subnet/IP Exceptions.
 9.	Click Save and then Save again.
 10.	Select your new file (proxy-<n>) and click on the preview icon.
 
+x![Diagram](pre-pend-2.png)
  
 
 11.	 If you understand JavaScript, review the PAC file. Notice the domains which will be directly accessed.
