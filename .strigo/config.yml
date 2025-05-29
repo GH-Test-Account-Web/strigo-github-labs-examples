@@ -16,10 +16,10 @@ classes:
           custom_password: "password123"
     exercises:
       - file: "../hello-world/hello.md"
-        title: "Hello!"
+        title: "Connectivity - Exercise 1"
         syntax: "md"
       - file: "../hello-world/world.md"
-        title: "World!"
+        title: "Connectivity - Exercise 2"
         syntax: "md"
 
 ## Class lab resources - configuration for multiple classes
