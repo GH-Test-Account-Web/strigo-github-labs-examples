@@ -30,5 +30,5 @@ Proxy Mode	SSL Inspection + Menlo Authentication (Port:3129)
 11.	 If you understand JavaScript, review the PAC file. Notice the domains which will be directly accessed.
 12.	Close the preview window.
 13.	Copy the location of the PAC file .  You will receive confirmation that the PAC file has been copied to the clipboard.
-![image](https://github.com/user-attachments/assets/06ddd93b-e1ab-41ef-b9ee-56b4bd019991)
+
 
