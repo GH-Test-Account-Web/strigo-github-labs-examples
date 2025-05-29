@@ -14,10 +14,10 @@ Notes:
 Exercise 1: Test Pre-Pend
 1.	Connect to the CloudShare environment using the instructions provided by the email you have received.
 2.	Open the Chrome browser and navigate to https://bbc.com using the prepend notation:
-a.	Type https://safe.menlosecurity.com.
-b.	Enter bbc.com, or a domain of your choice, in the dialogue as shown below:
+ a.	Type https://safe.menlosecurity.com.
+ b.	Enter bbc.com, or a domain of your choice, in the dialogue as shown below:
  
-
+![Diagram](pre-pend1.png)
 
 3.	Log on as admin@menlo-student<n>.com where <n> is your student number provided by the instructor.  Use the password provided to you by the instructor. 
 4.	Click on a link on the page.
