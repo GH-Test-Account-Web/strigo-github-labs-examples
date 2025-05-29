@@ -4,7 +4,7 @@ classes:
   - lab_resources:
       - display_name: "AWS EC2 Instance"
         platform_type: "lab"
-        image_platform: "linux"
+        image_platform: "Windows"
         view_interface: "desktop"
         cloud_provider: "aws"
         aws_vm_definition:
